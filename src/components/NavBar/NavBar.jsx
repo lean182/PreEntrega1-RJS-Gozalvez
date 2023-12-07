@@ -13,6 +13,9 @@ const NavBar = () => {
           <a href="#">Teclados</a>
         </li>
         <li>
+          <a href="#">Mouse</a>
+        </li>
+        <li>
           <a href="#">Pc</a>
         </li>
       </ul>

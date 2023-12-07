@@ -1,10 +1,12 @@
-import "./NavBar.css"
-
-
 const CartWidget = () => {
   return (
-    <div id="cartwidget">
-      <img src="/img/CartWidget.svg" alt="" />
+    <div id="bloquecart">
+      <div id="cart">
+        <img src="/img/CartWidget.svg" alt="ícono de carrito" />
+      </div>
+      <div id="textocart">
+        <p>1</p>
+      </div>
     </div>
   );
 };

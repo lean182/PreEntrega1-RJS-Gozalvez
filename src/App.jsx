@@ -7,7 +7,7 @@ function App() {
   return (
     <div id="app">
       <NavBar />
-      <ItemListContainer saludo="Prop de saludo" />
+      <ItemListContainer saludo={"Bienvenidos al Primer eCommerce"} />
     </div>
   );
 }
